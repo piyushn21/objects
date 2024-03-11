@@ -81,6 +81,10 @@ DisplayGameOverMenu
 HandleMenuInput
 UIElement:
 
+Methods:
+DetectCollision (to detect collisions between objects)
+Scoreboard:
+
 
 
 
