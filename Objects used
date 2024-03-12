@@ -21,6 +21,15 @@ Render
 Game:
 
 Attributes:
+Position (x, y)
+Type (e.g., other cars, barriers, debris)
+Sprite
+Methods:
+Move
+Render
+Game:
+
+Attributes:
 Score
 Lives
 State (e.g., running, paused, game over)
