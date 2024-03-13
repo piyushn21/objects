@@ -84,6 +84,15 @@ Generate
 Render
 These are just examples of objects you might use in a basic car game. Depending on the specific requirements and features of your game, you may need to create additional objects or modify existing ones.
 
+Attributes:
+Length
+Width
+Methods:
+Generate
+Render
+These are just examples of objects you might use in a basic car game. Depending on the specific requirements and features of your game, you may need to create additional objects or modify existing ones.
+
+
 Methods:
 DisplayMainMenu
 DisplayGameOverMenu
